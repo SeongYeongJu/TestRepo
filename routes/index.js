@@ -12,8 +12,8 @@ router.get("/items", (req, res) => {
     let items = [
         {
             id: "0",
-            title: "Beats Studio3 wirelessˣ",
-            description: "Experience your music\nnever before.",
+            title: "Beats Studio3 wireless",
+            description: "Experience your\nmusic like never before.",
             promotionText:
                 "$60 Apple Music gift card with purchase of select Beats products.*",
             price: "$299.95",
@@ -22,7 +22,7 @@ router.get("/items", (req, res) => {
         },
         {
             id: "1",
-            title: "Beats Pillˣ",
+            title: "Beats Pill",
             description: "Portable Wireless Speaker",
             promotionText:
                 "$60 Apple Music gift card with purchase of select Beats products.*",
